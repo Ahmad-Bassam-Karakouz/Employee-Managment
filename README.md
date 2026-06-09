@@ -22,3 +22,6 @@
 * استخدام ListView و SubItems
 * منطق التحقق الأساسي من الصحة
 * تنظيم الكود في دوال لتحسين سهولة القراءة
+
+#### الفيديو التوضيحي على LinkedIn :
+https://www.linkedin.com/in/ahmad-karakouz-637a9a3a5/
